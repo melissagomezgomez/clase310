@@ -1,1 +1,1 @@
-# Hello world is my first readmegit status
+# Hello world is my first readme
